@@ -1,11 +1,3 @@
-echo "# ProjetoTecTI" >> README.md
-git init
-git add README.md
-git commit -m "arquivo readme adcinado"
-git branch -M main
-git remote add origin https://github.com/tiago-mn1/ProjetoTecTI.git
-git push -u origin main
-
 MIT License
 
 Copyright (c) 2023 tiago-mn1
